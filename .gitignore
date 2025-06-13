@@ -1,0 +1,10 @@
+# Data files
+*.csv
+
+# Common ignores
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.venv/
+node_modules/
